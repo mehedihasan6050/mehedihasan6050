@@ -27,3 +27,23 @@ I'm a Full Stack Web Developer with expertise in Javascript, Typescript, React.j
 
 ---
 
+###  <img src="https://github.com/mehedihasan6050/mehedihasan6050/blob/main/img/tech.gif" width="40" height="40" /> Tech and Tools
+
+<div align="left">
+ <img src="https://github.com/mehedihasan6050/mehedihasan6050/blob/main/img/javascript.png" width="30"> &nbsp; &nbsp; 
+ <img src="https://github.com/mehedihasan6050/mehedihasan6050/blob/main/img/typescript.png" width="30"> &nbsp; &nbsp;
+ <img src="https://github.com/mehedihasan6050/mehedihasan6050/blob/main/img/react.gif" width="30"> &nbsp; &nbsp; 
+ <img src="https://github.com/mehedihasan6050/mehedihasan6050/blob/main/img/node.gif" width="30"> &nbsp; &nbsp; 
+ <img src="https://github.com/mehedihasan6050/mehedihasan6050/blob/main/img/express.gif" width="30"> &nbsp; &nbsp; 
+<!--  <img src="https://github.com/mehedihasan6050/mehedihasan6050/blob/main/img/nest.svg" width="30"/> &nbsp; &nbsp;  -->
+ <img src="https://github.com/mehedihasan6050/mehedihasan6050/blob/main/img/mongodb.gif" width="30"> &nbsp; &nbsp; 
+ <img src="https://github.com/mehedihasan6050/mehedihasan6050/blob/main/img/postgresql.png" width="30"> &nbsp; &nbsp; 
+ <img src="https://github.com/mehedihasan6050/mehedihasan6050/blob/main/img/html.gif" width="30"> &nbsp; &nbsp; 
+ <img src="https://github.com/mehedihasan6050/mehedihasan6050/blob/main/img/css.gif" width="30"> &nbsp; &nbsp; 
+ <img src="https://github.com/mehedihasan6050/mehedihasan6050/blob/main/img/git.gif" width="45"> &nbsp; &nbsp; 
+ <img src="https://github.com/mehedihasan6050/mehedihasan6050/blob/main/img/Prisma.svg" width="20"> &nbsp; &nbsp; 
+ <img src="https://github.com/mehedihasan6050/mehedihasan6050/blob/main/img/docker.svg" width="30">
+</div>
+
+
+#
