@@ -35,7 +35,7 @@ I'm a Full Stack Web Developer with expertise in Javascript, Typescript, React.j
  <img src="https://github.com/mehedihasan6050/mehedihasan6050/blob/main/img/react.gif" width="30"> &nbsp; &nbsp; 
  <img src="https://github.com/mehedihasan6050/mehedihasan6050/blob/main/img/node.gif" width="30"> &nbsp; &nbsp; 
  <img src="https://github.com/mehedihasan6050/mehedihasan6050/blob/main/img/express.gif" width="40"> &nbsp; &nbsp; 
-<!--  <img src="https://github.com/mehedihasan6050/mehedihasan6050/blob/main/img/nest.svg" width="30"/> &nbsp; &nbsp;  -->
+ <img src="https://github.com/mehedihasan6050/mehedihasan6050/blob/main/img/nest.svg" width="30"/> &nbsp; &nbsp; 
  <img src="https://github.com/mehedihasan6050/mehedihasan6050/blob/main/img/mongodb.gif" width="30"> &nbsp; &nbsp; 
  <img src="https://github.com/mehedihasan6050/mehedihasan6050/blob/main/img/postgresql.png" width="30"> &nbsp; &nbsp; 
  <img src="https://github.com/mehedihasan6050/mehedihasan6050/blob/main/img/html.gif" width="30"> &nbsp; &nbsp; 
