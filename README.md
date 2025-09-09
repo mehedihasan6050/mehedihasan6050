@@ -1,16 +1,17 @@
-## Hi there 👋
+``` javascript
+class Developer {
+    constructor() {
+        this.name = "Mehedi Hasan";
+        this.role = "WEB Developer";
+        this.language_spoken = ["bn_BD", "en_US"];
+    }
 
-<!--
-**mehedihasan6050/mehedihasan6050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    introduce() {
+        console.log(`Hi, I'm ${this.name}, a ${this.role}.`);
+    }
+}
 
-Here are some ideas to get you started:
+const dev = new Developer();
+dev.introduce();
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
