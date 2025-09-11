@@ -57,6 +57,6 @@ I'm a Full Stack Web Developer with expertise in Javascript, Typescript, React.j
 
  <div>
   <a href="https://www.linkedin.com/mehedihasan6050" target="blank"><img src="https://github.com/mehedihasan6050/mehedihasan6050/blob/main/img/linkedin.gif" width="50"></a>
-  <a href="https://discord.com/channels/mehedihasan6050" target="blank"><img src="https://github.com/mehedihasan6050/mehedihasan6050/blob/main/img/discord.gif" width="50"></a>
+  <a href="https://discord.com/channels/mehedihasan.rony" target="blank"><img src="https://github.com/mehedihasan6050/mehedihasan6050/blob/main/img/discord.gif" width="50"></a>
   <a href="https://facebook.com/mehedihasan.devsec" target="blank"><img src="https://github.com/mehedihasan6050/mehedihasan6050/blob/main/img/facebook.gif" width="50"></a>
  </div>
