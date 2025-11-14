@@ -6,7 +6,7 @@ I'm a Full Stack Web Developer with expertise in Javascript, Typescript, React.j
 
 
 <p align="left">
-    <a href="https://twitter.com/rony_sda" target="blank"><img src="https://img.shields.io/twitter/follow/mehedihasan6050?logo=twitter&style=for-the-badge" alt="mehedihasan6050" /></a>  
+    <a href="https://twitter.com/rony_sda" target="blank"><img src="https://img.shields.io/twitter/follow/mehedihasan6050?logo=twitter&style=for-the-badge" alt="rony_sda" /></a>  
    </p>
 
 ---
