@@ -1,6 +1,6 @@
 [<img src='https://github.com/rony-sda/rony-sda/blob/main/img/jsmachine.gif' alt='Mehedi Hasan'>](https://github.com/rony-sda/)
 
- **`Full-Stack Developer | Mern Stack Enthusiast`**
+ **`Full-Stack Developer | Tech Enthusiast`**
 
 I'm a Full Stack Web Developer with expertise in Javascript, Typescript, React.js, Next.js, Node.js & Express.js, Nest.js, MongoDB, Mongoose, PostgreSql, Prisma. Currently, I'm studying Computer Science. I enjoy building responsive and user friendly applications and exploring new technologies to enhance my development workflow.
 
