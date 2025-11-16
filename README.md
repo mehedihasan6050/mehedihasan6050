@@ -40,6 +40,6 @@ I'm a Full Stack Web Developer with expertise in Javascript, Typescript, React.j
 ### <img src="https://github.com/rony-sda/rony-sda/blob/main/img/Connect.png" width="30" height="30"> Let's Connect 
 
  <div>
-  <a href="https://www.linkedin.com/rony-sda" target="blank"><img src="https://github.com/rony-sda/rony-sda/blob/main/img/linkedin.gif" width="50"></a>
+  <a href="https://www.linkedin.com/in/rony-sda" target="blank"><img src="https://github.com/rony-sda/rony-sda/blob/main/img/linkedin.gif" width="50"></a>
   <a href="https://discord.com/channels/rony_sda" target="blank"><img src="https://github.com/rony-sda/rony-sda/blob/main/img/discord.gif" width="50"></a>
  </div>
