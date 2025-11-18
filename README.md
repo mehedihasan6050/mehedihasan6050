@@ -5,9 +5,7 @@
 I'm a Full Stack Web Developer with expertise in Javascript, Typescript, React.js, Next.js, Node.js & Express.js, Nest.js, MongoDB, Mongoose, PostgreSql, Prisma. Currently, I'm studying Computer Science. I enjoy building responsive and user friendly applications and exploring new technologies to enhance my development workflow.
 
 
-<p align="left">
-    <a href="https://twitter.com/rony_sda" target="blank"><img src="https://img.shields.io/twitter/follow/rony_sda?logo=twitter&style=for-the-badge" alt="rony_sda" /></a>  
-   </p>
+<p align="left"> <a href="https://twitter.com/rony_sda" target="blank"><img src="https://img.shields.io/twitter/follow/rony_sda?logo=twitter&style=for-the-badge" alt="rony_sda" /></a> </p>
 
 ---
 
@@ -43,3 +41,4 @@ I'm a Full Stack Web Developer with expertise in Javascript, Typescript, React.j
   <a href="https://www.linkedin.com/in/rony-sda" target="blank"><img src="https://github.com/rony-sda/rony-sda/blob/main/img/linkedin.gif" width="50"></a>
   <a href="https://discord.com/channels/rony_sda" target="blank"><img src="https://github.com/rony-sda/rony-sda/blob/main/img/discord.gif" width="50"></a>
  </div>
+
