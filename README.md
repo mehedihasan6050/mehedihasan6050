@@ -1,11 +1,16 @@
-[<img src='https://github.com/rony-sda/rony-sda/blob/main/img/jsmachine.gif' alt='Mehedi Hasan'>](https://github.com/rony-sda/)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Hi%20There!;I'm%20Mehedi%20Hasan" alt="Typing introduction" />
+</p>
 
+<div align="center">
+ 
  **`Full-Stack Developer | Tech Enthusiast`**
 
 I'm a Full Stack Web Developer with expertise in Javascript, Typescript, React.js, Next.js, Node.js & Express.js, Nest.js, MongoDB, Mongoose, PostgreSql, Prisma. Currently, I'm studying Computer Science. I enjoy building responsive and user friendly applications and exploring new technologies to enhance my development workflow.
+</div>
 
 
-<p align="left"> 
+<p align="center"> 
  <a href="https://twitter.com/rony_sda" target="blank">
   <img src="https://img.shields.io/twitter/follow/rony_sda?logo=twitter&style=for-the-badge" alt="rony_sda" />
  </a> &nbsp;
@@ -20,9 +25,12 @@ I'm a Full Stack Web Developer with expertise in Javascript, Typescript, React.j
 
 ---
 
-###  <img src="https://github.com/rony-sda/rony-sda/blob/main/img/tech.gif" width="40" height="40" /> Tech and Tools
 
-<div align="left">
+<h2 align="center">
+  <img src="https://github.com/rony-sda/rony-sda/blob/main/img/tech.gif" width="40" height="40" /> Tech and Tools
+</h2>
+<div align="center">
+
  <img src="https://github.com/rony-sda/rony-sda/blob/main/img/javascript.png" width="30"> &nbsp; &nbsp; 
  <img src="https://github.com/rony-sda/rony-sda/blob/main/img/typescript.png" width="30"> &nbsp; &nbsp;
  <img src="https://github.com/rony-sda/rony-sda/blob/main/img/react.gif" width="30"> &nbsp; &nbsp; 
@@ -42,7 +50,10 @@ I'm a Full Stack Web Developer with expertise in Javascript, Typescript, React.j
 
 
 
----
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/flames.gif" alt="Bottom Line" width="100%" />
+</div>
 
 
 <p align="left">
