@@ -27,8 +27,10 @@ I'm a Full Stack Web Developer with expertise in Javascript, Typescript, React.j
 
 
 <h2 align="center">
-  <img src="https://github.com/rony-sda/rony-sda/blob/main/img/tech.gif" width="40" height="40" /> Tech and Tools
+  <img src="https://github.com/rony-sda/rony-sda/blob/main/img/tech.gif" width="40" height="40" /> <br/> Tech and Tools
 </h2>
+
+
 <div align="center">
 
  <img src="https://github.com/rony-sda/rony-sda/blob/main/img/javascript.png" width="30"> &nbsp; &nbsp; 
