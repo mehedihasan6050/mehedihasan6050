@@ -5,7 +5,18 @@
 I'm a Full Stack Web Developer with expertise in Javascript, Typescript, React.js, Next.js, Node.js & Express.js, Nest.js, MongoDB, Mongoose, PostgreSql, Prisma. Currently, I'm studying Computer Science. I enjoy building responsive and user friendly applications and exploring new technologies to enhance my development workflow.
 
 
-<p align="left"> <a href="https://twitter.com/rony_sda" target="blank"><img src="https://img.shields.io/twitter/follow/rony_sda?logo=twitter&style=for-the-badge" alt="rony_sda" /></a> </p>
+<p align="left"> 
+ <a href="https://twitter.com/rony_sda" target="blank">
+  <img src="https://img.shields.io/twitter/follow/rony_sda?logo=twitter&style=for-the-badge" alt="rony_sda" />
+ </a> &nbsp;
+  <a href="mailto:mehedihasan20330@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a> &nbsp;
+  
+  <a href="https://www.linkedin.com/in/rony-sda" >
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -28,17 +39,24 @@ I'm a Full Stack Web Developer with expertise in Javascript, Typescript, React.j
 </div>
 
 
-#
 
 
-### <img src="https://github.com/rony-sda/rony-sda/blob/main/img/skills.gif" alt="" width="30" height="20" /> Used Skills
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rony-sda&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-### <img src="https://github.com/rony-sda/rony-sda/blob/main/img/Connect.png" width="30" height="30"> Let's Connect 
 
- <div>
-  <a href="https://www.linkedin.com/in/rony-sda" target="blank"><img src="https://github.com/rony-sda/rony-sda/blob/main/img/linkedin.gif" width="50"></a>
-  <a href="https://discord.com/channels/rony_sda" target="blank"><img src="https://github.com/rony-sda/rony-sda/blob/main/img/discord.gif" width="50"></a>
- </div>
+<p align="left">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rony-sda&layout=compact&theme=dark" alt="Rony's Top Languages" height="200px" />
+      </td>
+      <td>
+         <img src="https://github-readme-stats.vercel.app/api?username=rony-sda&show_icons=true&theme=dark" alt="Rony's GitHub Stats" height="200px" />
+      </td>
+    </tr>
+  </table>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rony-sda&theme=github-compact" width="100%"/>
+</p>
+
 
