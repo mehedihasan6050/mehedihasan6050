@@ -49,27 +49,22 @@ I'm a Full Stack Web Developer with expertise in Javascript, Typescript, React.j
 </div>
 
 
+<h2 align="center">
+ <img src="https://github.com/rony-sda/rony-sda/blob/main/img/skills.gif" width="40"  height="40"/> <br/> Used Skills
+</h2>
 
 
-
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/flames.gif" alt="Bottom Line" width="100%" />
-</div>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rony-sda&layout=compact&theme=dark" alt="Rony's Top Languages" height="200px" />
+</p>
 
 
 <p align="left">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rony-sda&layout=compact&theme=dark" alt="Rony's Top Languages" height="200px" />
-      </td>
-      <td>
-         <img src="https://github-readme-stats.vercel.app/api?username=rony-sda&show_icons=true&theme=dark" alt="Rony's GitHub Stats" height="200px" />
-      </td>
-    </tr>
-  </table>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rony-sda&theme=github-compact" width="100%"/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=rony-sda&theme=github-compact" width="100%"/>
 </p>
+
+
+
+
 
 
