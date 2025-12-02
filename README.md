@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Hi%20There!;I'm%20Mehedi%20Hasan" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=096FC8&center=true&vCenter=true&width=650&lines=Hi%20There!;I'm%20Mehedi%20Hasan" alt="Typing introduction" />
 </p>
 
 <div align="center">
  
  **`Full-Stack Developer | Tech Enthusiast`**
 
-I'm a Full Stack Web Developer with expertise in Javascript, Typescript, React.js, Next.js, Node.js & Express.js, Nest.js, MongoDB, Mongoose, PostgreSql, Prisma. Currently, I'm studying Computer Science. I enjoy building responsive and user friendly applications and exploring new technologies to enhance my development workflow.
+I'm a Full Stack Web Developer with expertise in Javascript, Typescript, React.js, Next.js, Node.js & Express.js, MongoDB, Mongoose, Prisma. Currently, I'm studying Computer Science. I enjoy building responsive and user friendly applications and exploring new technologies to enhance my development workflow.
 </div>
 
 
@@ -38,9 +38,7 @@ I'm a Full Stack Web Developer with expertise in Javascript, Typescript, React.j
  <img src="https://github.com/rony-sda/rony-sda/blob/main/img/react.gif" width="30"> &nbsp; &nbsp; 
  <img src="https://github.com/rony-sda/rony-sda/blob/main/img/node.gif" width="30"> &nbsp; &nbsp; 
  <img src="https://github.com/rony-sda/rony-sda/blob/main/img/express.gif" width="40"> &nbsp; &nbsp; 
- <img src="https://github.com/rony-sda/rony-sda/blob/main/img/nest.svg" width="30"/> &nbsp; &nbsp; 
  <img src="https://github.com/rony-sda/rony-sda/blob/main/img/mongodb.gif" width="30"> &nbsp; &nbsp; 
- <img src="https://github.com/rony-sda/rony-sda/blob/main/img/postgresql.png" width="30"> &nbsp; &nbsp; 
  <img src="https://github.com/rony-sda/rony-sda/blob/main/img/html.gif" width="30"> &nbsp; &nbsp; 
  <img src="https://github.com/rony-sda/rony-sda/blob/main/img/css.gif" width="30"> &nbsp; &nbsp; 
  <img src="https://github.com/rony-sda/rony-sda/blob/main/img/git.gif" width="45"> &nbsp; &nbsp; 
